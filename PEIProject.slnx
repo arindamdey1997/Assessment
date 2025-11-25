@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="FunctionApp1/FunctionApp1.csproj" />
-  <Project Path="PEIProject/PEIProject.csproj" />
-  <Project Path="UnitTestProject1/UnitTestProject1.csproj" />
-</Solution>
